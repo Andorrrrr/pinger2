@@ -8,8 +8,17 @@ app.get("/", (req, res) => {
 });
 
 function pong() { 
-fetch('https://example.com')
-fetch('https://example.org')
+fetch("https://lyrical-roasted-exhaust.glitch.me");
+  fetch("https://gem-ahead-breadfruit.glitch.me");
+  fetch("https://bristle-friendly-archeology.glitch.me");
+  fetch("https://talented-cooperative-event.glitch.me");
+  fetch("https://bottlenose-citrine-schooner.glitch.me");
+  fetch("https://merciful-chlorinated-driver.glitch.me");
+  fetch("https://torpid-crawling-exception.glitch.me");
+  fetch("https://seed-silver-shield.glitch.me");
+  fetch("https://orange-frequent-morning.glitch.me");
+  fetch("https://coal-charming-iron.glitch.me");
+
   
 console.log('hAha site ping go BrRRR')
 } 
